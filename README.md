@@ -2,7 +2,7 @@
   <div class="wikidoc">
 
     <h2>Email Processing in ASP.NET</h2>
-<p>Email Processing in ASP.NET is a web application that demonstrates some of the great features of Aspose.Email for .NET. This application will practically show you the power and ease of use for working with emails from within your .NET applications ... <a href="https://asposeemailnet.codeplex.com/wikipage?title=Email%20Processing%20in%20ASP.NET"> Continue reading &rarr;</a></p>
+<p>Email Processing in ASP.NET is a web application that demonstrates some of the great features of Aspose.Email for .NET. This application will practically show you the power and ease of use for working with emails from within your .NET applications ... <a href="https://github.com/asposemarketplace/Aspose_Email_Net/blob/master/Email%20Processing%20in%20ASP.NET.md"> Continue reading &rarr;</a></p>
 <h2>How To's</h2>
 <p>Aspose.Email for .NET allows you to list and manage email messages on POP3, IMAP and Exchange Servers. Please check below details about connecting, listing and exporting messages from each type of server</p>
 <h3>Microsoft Exchange Server</h3>

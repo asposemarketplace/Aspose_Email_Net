@@ -8,15 +8,17 @@
         <li>Export entire folder to Microsoft Outlook PST file.</li>
         <li>The exported file can be downloaded on the fly.</li>
     </ul>
-    <div class="wp-caption aligncenter" id="attachment_15263"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_.png">
-        <img width="300" height="225" alt="home email processing in .net using aspose.email  300x225 Export Selected Folder or Messages to Microsoft Outlook PST File using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_-300x225.png" title="home - email-processing-in-.net-using-aspose.email" class="size-medium wp-image-15263"></a><p class="wp-caption-text">Email Processing in ASP.NET using Aspose.Email</p>
-    </div>
-    <div class="wp-caption aligncenter" id="attachment_15264"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/login-email-processing-in-.net-using-aspose.email_.png">
-        <img width="300" height="238" alt="login email processing in .net using aspose.email  300x238 Export Selected Folder or Messages to Microsoft Outlook PST File using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/login-email-processing-in-.net-using-aspose.email_-300x238.png" title="login - email-processing-in-.net-using-aspose.email" class="size-medium wp-image-15264"></a><p class="wp-caption-text">Login - Email Processing in ASP.NET using Aspose.Email</p>
-    </div>
-    <div class="wp-caption aligncenter" id="attachment_15265"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/export-email-processing-in-.net-using-aspose.email_.png">
-        <img width="300" height="177" alt="export email processing in .net using aspose.email  300x177 Export Selected Folder or Messages to Microsoft Outlook PST File using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/export-email-processing-in-.net-using-aspose.email_-300x177.png" title="export - email-processing-in-.net-using-aspose.email" class="size-medium wp-image-15265"></a><p class="wp-caption-text">Mailbox - Email Processing in ASP.NET using Aspose.Email</p>
-    </div>
+    <div id="attachment_15263"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_.png"><img width="300" height="225" style="display:block; margin-left:auto; margin-right:auto" alt="home email processing in .net using aspose.email  300x225 Export selected folder or messages to Microsoft Outlook PST file using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_-300x225.png" title="home - email-processing-in-.net-using-aspose.email"></a>
+<p style="text-align:center">Email Processing in ASP.NET using Aspose.Email</p>
+</div>
+
+<div id="attachment_15264"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/login-email-processing-in-.net-using-aspose.email_.png"><img width="300" height="238" style="display:block; margin-left:auto; margin-right:auto" alt="login email processing in .net using aspose.email  300x238 Export selected folder or messages to Microsoft Outlook PST file using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/login-email-processing-in-.net-using-aspose.email_-300x238.png" title="login - email-processing-in-.net-using-aspose.email"></a>
+<p style="text-align:center">Login - Email Processing in ASP.NET using Aspose.Email</p>
+</div>
+
+<div id="attachment_15265"><a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/export-email-processing-in-.net-using-aspose.email_.png"><img width="300" height="177" style="display:block; margin-left:auto; margin-right:auto" alt="export email processing in .net using aspose.email  300x177 Export selected folder or messages to Microsoft Outlook PST file using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/export-email-processing-in-.net-using-aspose.email_-300x177.png" title="export - email-processing-in-.net-using-aspose.email"></a>
+<p style="text-align:center">Mailbox - Email Processing in ASP.NET using Aspose.Email</p>
+</div>
     <p>The application demonstrates the following features provided by Aspose.Email:</p>
     <ul>
         <li>Connect to Exchange Server.</li>
