@@ -10,7 +10,7 @@
     </ul>
     <div id="attachment_15263">
         <a href="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_.png">
-            <img width="300" height="225" style="display: block; margin-left: auto; margin-right: auto" alt="home email processing in .net using aspose.email  300x225 Export selected folder or messages to Microsoft Outlook PST file using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_-300x225.png" title="home - email-processing-in-.net-using-aspose.email"></a>
+            <img width="300" height="225" style="display: block; margin-left: auto; margin-right: auto" alt="home email processing in .net using aspose.email  300x225 Export selected folder or messages to Microsoft Outlook PST file using Aspose.Email" src="http://www.aspose.com/blogs/wp-content/uploads/2014/06/home-email-processing-in-.net-using-aspose.email_.png" title="home - email-processing-in-.net-using-aspose.email"></a>
         <p style="text-align: center">Email Processing in ASP.NET using Aspose.Email</p>
     </div>
 
